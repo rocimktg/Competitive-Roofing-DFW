@@ -363,9 +363,6 @@ function initFooterYear() {
 
 // ── Init all on DOM ready ─────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
-  // Boot Lucide icons
-  if (window.lucide) lucide.createIcons();
-
   initStatusDot();
   initMobileMenu();
   initModal();

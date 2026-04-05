@@ -21,9 +21,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700;900&family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
 
-  <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
-
   <!-- GA4 Placeholder -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
   <script>
@@ -77,6 +74,67 @@
 </head>
 <body>
 
+  <!-- Inline SVG icon sprite (replaces 486KB Lucide CDN) -->
+  <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+    <symbol id="icon-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.6 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/>
+    </symbol>
+    <symbol id="icon-shield-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/>
+    </symbol>
+    <symbol id="icon-star" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+    </symbol>
+    <symbol id="icon-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </symbol>
+    <symbol id="icon-zap" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+    </symbol>
+    <symbol id="icon-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+    </symbol>
+    <symbol id="icon-check-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>
+    </symbol>
+    <symbol id="icon-cloud-lightning" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 16.9A5 5 0 0 0 18 7h-1.26a8 8 0 1 0-11.62 9"/><polyline points="13 11 9 17 15 17 11 23"/>
+    </symbol>
+    <symbol id="icon-home" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/>
+    </symbol>
+    <symbol id="icon-wrench" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+    </symbol>
+    <symbol id="icon-droplets" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/>
+    </symbol>
+    <symbol id="icon-layout-grid" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+    </symbol>
+    <symbol id="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="4"/><line x1="12" y1="2" x2="12" y2="6"/><line x1="12" y1="18" x2="12" y2="22"/><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"/><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"/><line x1="2" y1="12" x2="6" y2="12"/><line x1="18" y1="12" x2="22" y2="12"/><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"/><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"/>
+    </symbol>
+    <symbol id="icon-chevrons-left-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="7 15 2 12 7 9"/><polyline points="17 15 22 12 17 9"/><line x1="2" y1="12" x2="22" y2="12"/>
+    </symbol>
+    <symbol id="icon-expand" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/>
+    </symbol>
+    <symbol id="icon-chevron-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="15 18 9 12 15 6"/>
+    </symbol>
+    <symbol id="icon-chevron-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="9 18 15 12 9 6"/>
+    </symbol>
+    <symbol id="icon-award" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/>
+    </symbol>
+    <symbol id="icon-map-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/>
+    </symbol>
+  </svg>
+
   <!-- ===================== NAV ===================== -->
   <nav id="nav" role="navigation" aria-label="Main navigation">
     <div class="nav-inner">
@@ -115,7 +173,7 @@
       <a href="#faq">FAQ</a>
     </nav>
     <a href="tel:+18174542113" class="mobile-phone-cta phone-link" aria-label="Call 817-454-2113">
-      <i data-lucide="phone" aria-hidden="true"></i>
+      <svg aria-hidden="true" class="lucide"><use href="#icon-phone"/></svg>
       (817) 454-2113
     </a>
     <button class="btn-cta btn-cta--mobile js-modal-trigger">Get a Free Estimate</button>
@@ -134,9 +192,9 @@
     <div class="hero-overlay" aria-hidden="true"></div>
     <div class="hero-content">
       <div class="hero-badges">
-        <span class="badge"><i data-lucide="shield-check" aria-hidden="true"></i> A+ BBB Accredited</span>
-        <span class="badge"><i data-lucide="star" aria-hidden="true"></i> 5.0 Google Rating</span>
-        <span class="badge"><i data-lucide="search" aria-hidden="true"></i> Free Inspections</span>
+        <span class="badge"><svg aria-hidden="true" class="lucide"><use href="#icon-shield-check"/></svg> A+ BBB Accredited</span>
+        <span class="badge"><svg aria-hidden="true" class="lucide"><use href="#icon-star"/></svg> 5.0 Google Rating</span>
+        <span class="badge"><svg aria-hidden="true" class="lucide"><use href="#icon-search"/></svg> Free Inspections</span>
       </div>
       <h1 class="hero-headline">
         Fast. Honest. Local.
@@ -147,7 +205,7 @@
       <div class="hero-ctas">
         <button class="btn-cta btn-cta--hero js-modal-trigger">Claim Your Free Estimate</button>
         <a href="tel:+18174542113" class="btn-secondary phone-link">
-          <i data-lucide="phone" aria-hidden="true"></i> (817) 454-2113
+          <svg aria-hidden="true" class="lucide"><use href="#icon-phone"/></svg> (817) 454-2113
         </a>
       </div>
       <p class="hero-note">Free inspections &bull; Same-day response &bull; Licensed &amp; insured</p>
@@ -160,17 +218,17 @@
       <p class="trust-bar-label">The CRC standard</p>
       <div class="trust-grid">
         <div class="trust-card">
-          <i data-lucide="zap" aria-hidden="true" class="trust-icon"></i>
+          <svg aria-hidden="true" class="lucide trust-icon"><use href="#icon-zap"/></svg>
           <h3 class="trust-title">Same-Day Inspections</h3>
           <p>On your roof within 24 hours — no waiting, no wondering if your home is protected.</p>
         </div>
         <div class="trust-card">
-          <i data-lucide="shield" aria-hidden="true" class="trust-icon"></i>
+          <svg aria-hidden="true" class="lucide trust-icon"><use href="#icon-shield"/></svg>
           <h3 class="trust-title">130 MPH Impact Protection</h3>
           <p>Every install uses impact-resistant shingles engineered for North Texas storms — not the minimum, the best.</p>
         </div>
         <div class="trust-card">
-          <i data-lucide="check-circle" aria-hidden="true" class="trust-icon"></i>
+          <svg aria-hidden="true" class="lucide trust-icon"><use href="#icon-check-circle"/></svg>
           <h3 class="trust-title">Clean-Site Guarantee</h3>
           <p>We move fast and leave nothing behind. No nails, no debris — your property cleaner than we found it.</p>
         </div>
@@ -193,7 +251,7 @@
             <img src="/Images/31.avif" alt="Large hail stones from a DFW storm — the kind of damage we inspect" loading="lazy" />
           </div>
           <div class="service-card-body">
-            <i data-lucide="cloud-lightning" aria-hidden="true" class="service-icon"></i>
+            <svg aria-hidden="true" class="lucide service-icon"><use href="#icon-cloud-lightning"/></svg>
             <h3>Storm Damage Inspections</h3>
             <p>Major weather events hit DFW every year. We offer free inspections to identify hail, wind, and storm damage — and when applicable, work directly with your insurance adjuster.</p>
             <button class="btn-cta btn-cta--card js-modal-trigger">Get a Free Inspection</button>
@@ -205,7 +263,7 @@
             <img src="/Images/roof_replacement.avif" alt="Completed roof replacement — aerial drone view" loading="lazy" />
           </div>
           <div class="service-card-body">
-            <i data-lucide="home" aria-hidden="true" class="service-icon"></i>
+            <svg aria-hidden="true" class="lucide service-icon"><use href="#icon-home"/></svg>
             <h3>Roof Replacements</h3>
             <p>Professional roof replacements using durable Owens Corning impact-resistant shingles. We upgrade your underlayment, ridge caps, and ventilation — not just the shingles.</p>
             <button class="btn-cta btn-cta--card js-modal-trigger">Get a Free Estimate</button>
@@ -217,7 +275,7 @@
             <img src="/Images/worker.avif" alt="Roof repair work in progress" loading="lazy" />
           </div>
           <div class="service-card-body">
-            <i data-lucide="wrench" aria-hidden="true" class="service-icon"></i>
+            <svg aria-hidden="true" class="lucide service-icon"><use href="#icon-wrench"/></svg>
             <h3>Roof Repairs</h3>
             <p>Fast, dependable repairs for leaks, missing shingles, and storm damage — before small problems become costly ones. Same-day service available for urgent issues.</p>
             <button class="btn-cta btn-cta--card js-modal-trigger">Schedule a Repair</button>
@@ -229,7 +287,7 @@
             <img src="/Images/gutters.avif" alt="New gutters and gutter guards installed on a Coppell home" loading="lazy" />
           </div>
           <div class="service-card-body">
-            <i data-lucide="droplets" aria-hidden="true" class="service-icon"></i>
+            <svg aria-hidden="true" class="lucide service-icon"><use href="#icon-droplets"/></svg>
             <h3>Gutters &amp; Gutter Guards</h3>
             <p>Expert gutter and gutter guard installation to protect your home from water damage and foundation issues. Properly functioning gutters are the first line of defense for your foundation.</p>
             <button class="btn-cta btn-cta--card js-modal-trigger">Get a Free Estimate</button>
@@ -241,7 +299,7 @@
             <img src="/Images/57.avif" alt="New cedar privacy fence installed in a Coppell neighborhood" loading="lazy" />
           </div>
           <div class="service-card-body">
-            <i data-lucide="layout-grid" aria-hidden="true" class="service-icon"></i>
+            <svg aria-hidden="true" class="lucide service-icon"><use href="#icon-layout-grid"/></svg>
             <h3>Fences</h3>
             <p>New fence builds and repairs using premium cedar and pressure-treated lumber. We build fences designed to last through North Texas weather for years to come.</p>
             <button class="btn-cta btn-cta--card js-modal-trigger">Get a Free Estimate</button>
@@ -253,7 +311,7 @@
             <img src="/Images/41.avif" alt="Custom pergola and flagstone patio built by CRC" loading="lazy" />
           </div>
           <div class="service-card-body">
-            <i data-lucide="sun" aria-hidden="true" class="service-icon"></i>
+            <svg aria-hidden="true" class="lucide service-icon"><use href="#icon-sun"/></svg>
             <h3>Patios &amp; Pergolas</h3>
             <p>Custom-built outdoor living spaces designed for DFW homeowners. From flagstone patios to heavy timber pergolas, we build spaces you'll enjoy for decades.</p>
             <button class="btn-cta btn-cta--card js-modal-trigger">Start My Project</button>
@@ -284,7 +342,7 @@
           <div class="slider-handle" id="js-slider-handle" role="slider" aria-label="Comparison slider" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
             <div class="handle-line"></div>
             <div class="handle-circle">
-              <i data-lucide="chevrons-left-right" aria-hidden="true"></i>
+              <svg aria-hidden="true" class="lucide"><use href="#icon-chevrons-left-right"/></svg>
             </div>
             <div class="handle-line"></div>
           </div>
@@ -305,63 +363,63 @@
         <div class="gallery-item gallery-item--large fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 1 full size" data-index="0">
             <img src="/Images/25.avif" alt="Luxury estate home aerial with pool — completed roof replacement in DFW" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 2 full size" data-index="1">
             <img src="/Images/21.avif" alt="Estate Gray aerial roof replacement with tree shadows — Coppell TX" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 3 full size" data-index="2">
             <img src="/Images/pergola.avif" alt="Custom pergola build — completed DFW outdoor project" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 4 full size" data-index="3">
             <img src="/Images/17.avif" alt="Aerial hip roof in teak tones — completed North Texas replacement" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 5 full size" data-index="4">
             <img src="/Images/finished_house.avif" alt="Finished house exterior after completed roofing project" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 6 full size" data-index="5">
             <img src="/Images/22.avif" alt="CRC crew on roof during mid-install aerial view" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item gallery-item--large fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 7 full size" data-index="6">
             <img src="/Images/23.avif" alt="Full roof teardown with crew visible — large-scale DFW project" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item gallery-item--tall fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 8 full size" data-index="7">
             <img src="/Images/0.avif" alt="Roofing project in DFW — vertical detail shot" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
         <div class="gallery-item fade-up" role="listitem">
           <button class="gallery-btn js-gallery-open" aria-label="View project photo 9 full size" data-index="8">
             <img src="/Images/fence_inside.avif" alt="Cedar fence interior view — completed DFW fence build" loading="lazy" />
-            <span class="gallery-overlay" aria-hidden="true"><i data-lucide="expand" aria-hidden="true"></i></span>
+            <span class="gallery-overlay" aria-hidden="true"><svg aria-hidden="true" class="lucide"><use href="#icon-expand"/></svg></span>
           </button>
         </div>
 
@@ -375,8 +433,8 @@
     <!-- Lightbox -->
     <div id="lightbox" role="dialog" aria-modal="true" aria-label="Image lightbox" aria-hidden="true">
       <button class="lightbox-close js-lightbox-close" aria-label="Close lightbox">&times;</button>
-      <button class="lightbox-prev js-lightbox-prev" aria-label="Previous image"><i data-lucide="chevron-left" aria-hidden="true"></i></button>
-      <button class="lightbox-next js-lightbox-next" aria-label="Next image"><i data-lucide="chevron-right" aria-hidden="true"></i></button>
+      <button class="lightbox-prev js-lightbox-prev" aria-label="Previous image"><svg aria-hidden="true" class="lucide"><use href="#icon-chevron-left"/></svg></button>
+      <button class="lightbox-next js-lightbox-next" aria-label="Next image"><svg aria-hidden="true" class="lucide"><use href="#icon-chevron-right"/></svg></button>
       <div class="lightbox-img-wrap">
         <img id="lightbox-img" src="" alt="" />
       </div>
@@ -403,7 +461,7 @@
           <div class="slider-handle" id="js-slider-fence-handle" role="slider" aria-label="Fence comparison slider" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0">
             <div class="handle-line"></div>
             <div class="handle-circle">
-              <i data-lucide="chevrons-left-right" aria-hidden="true"></i>
+              <svg aria-hidden="true" class="lucide"><use href="#icon-chevrons-left-right"/></svg>
             </div>
             <div class="handle-line"></div>
           </div>
@@ -528,19 +586,19 @@
           <p>When applicable, we work directly with insurance companies to document storm damage and support the claims process — making restoration as smooth and stress-free as possible. We never offer illegal promises like a "free roof," and we never pressure homeowners into claims they don't need.</p>
           <div class="about-credentials">
             <div class="credential">
-              <i data-lucide="award" aria-hidden="true"></i>
+              <svg aria-hidden="true" class="lucide"><use href="#icon-award"/></svg>
               <span>A+ BBB Accredited Business</span>
             </div>
             <div class="credential">
-              <i data-lucide="shield-check" aria-hidden="true"></i>
+              <svg aria-hidden="true" class="lucide"><use href="#icon-shield-check"/></svg>
               <span>Fully Licensed &amp; Insured</span>
             </div>
             <div class="credential">
-              <i data-lucide="map-pin" aria-hidden="true"></i>
+              <svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg>
               <span>Locally Owned — Coppell, TX</span>
             </div>
             <div class="credential">
-              <i data-lucide="star" aria-hidden="true"></i>
+              <svg aria-hidden="true" class="lucide"><use href="#icon-star"/></svg>
               <span>5.0 Rating — 26 Google Reviews</span>
             </div>
           </div>
@@ -558,22 +616,22 @@
         <p class="section-sub">Locally rooted in Coppell — but we work across the entire DFW area.</p>
       </div>
       <div class="area-grid">
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Coppell</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Lewisville</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Grapevine</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Irving</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Carrollton</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Flower Mound</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Lantana</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> McKinney</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Frisco</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Southlake</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Colleyville</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Roanoke</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Trophy Club</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> The Colony</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Highland Village</div>
-        <div class="area-badge fade-up"><i data-lucide="map-pin" aria-hidden="true"></i> Argyle</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Coppell</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Lewisville</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Grapevine</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Irving</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Carrollton</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Flower Mound</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Lantana</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> McKinney</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Frisco</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Southlake</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Colleyville</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Roanoke</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Trophy Club</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> The Colony</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Highland Village</div>
+        <div class="area-badge fade-up"><svg aria-hidden="true" class="lucide"><use href="#icon-map-pin"/></svg> Argyle</div>
       </div>
     </div>
   </section>
@@ -728,7 +786,7 @@
           </div>
           <div class="footer-badges" aria-label="Certifications">
             <img src="/Logos/bbb.png" alt="BBB Accredited Business" class="footer-bbb-logo" />
-            <span class="footer-badge"><i data-lucide="shield-check" aria-hidden="true"></i> Licensed &amp; Insured</span>
+            <span class="footer-badge"><svg aria-hidden="true" class="lucide"><use href="#icon-shield-check"/></svg> Licensed &amp; Insured</span>
           </div>
         </div>
 
@@ -776,7 +834,7 @@
   <!-- ===================== MOBILE CALL BAR ===================== -->
   <div id="mobile-call-bar" aria-label="Call us now">
     <a href="tel:+18174542113" class="phone-link" aria-label="Call Competitive Roofing & Construction at 817-454-2113">
-      <i data-lucide="phone" aria-hidden="true"></i>
+      <svg aria-hidden="true" class="lucide"><use href="#icon-phone"/></svg>
       <span>Call (817) 454-2113</span>
     </a>
   </div>

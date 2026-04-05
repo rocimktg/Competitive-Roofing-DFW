@@ -37,6 +37,9 @@
 /* ── Reset & Base ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+svg.lucide { display: inline-block; width: 1em; height: 1em; vertical-align: middle; flex-shrink: 0; }
+svg.lucide.trust-icon, svg.lucide.service-icon { width: 40px; height: 40px; }
+
 html {
   scroll-behavior: smooth;
   font-size: 16px;
@@ -563,8 +566,8 @@ ul { list-style: none; }
 }
 
 .trust-icon {
-  width: 28px;
-  height: 28px;
+  width: 40px;
+  height: 40px;
   color: var(--green);
   margin-bottom: 20px;
   opacity: 0.9;
@@ -636,8 +639,8 @@ ul { list-style: none; }
 }
 
 .service-icon {
-  width: 28px;
-  height: 28px;
+  width: 40px;
+  height: 40px;
   color: var(--green);
   flex-shrink: 0;
 }
