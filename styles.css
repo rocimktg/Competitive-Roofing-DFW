@@ -1398,7 +1398,7 @@ ul { list-style: none; }
 
 .footer-review-link {
   font-size: 0.82rem;
-  color: rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.6);
   text-decoration: underline;
   text-underline-offset: 3px;
   transition: color 150ms;
@@ -1418,11 +1418,11 @@ ul { list-style: none; }
 }
 .footer-bottom p {
   font-size: 0.8rem;
-  color: rgba(255,255,255,0.35);
+  color: rgba(255,255,255,0.55);
 }
 .footer-privacy {
   font-size: 0.8rem;
-  color: rgba(255,255,255,0.35);
+  color: rgba(255,255,255,0.55);
   transition: color 150ms;
   touch-action: manipulation;
 }

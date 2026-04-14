@@ -197,9 +197,7 @@ function initSlider(containerId, beforeId, handleId) {
     handle.setAttribute('aria-valuenow', Math.round(pct));
   });
 
-  // Set initial handle position
-  const initRect = container.getBoundingClientRect();
-  setPosition(initRect.left + initRect.width * 0.5);
+  // Initial position set via CSS (clip-path + left: 50%) — no JS read needed
 }
 
 // ── Gallery Lightbox ─────────────────────────────────────────
