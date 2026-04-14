@@ -619,8 +619,14 @@ ul { list-style: none; }
   border-left: 1px solid rgba(255,255,255,0.08);
 }
 
-.trust-card:last-child {
+.trust-card:last-child,
+.trust-grid .trust-card:nth-child(3n) {
   padding-right: 0;
+}
+
+.trust-grid .trust-card:nth-child(3n+1) {
+  padding-left: 0;
+  border-left: none;
 }
 
 .trust-icon {
