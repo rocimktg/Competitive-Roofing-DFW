@@ -16,19 +16,20 @@
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%232B2B2B'/><polygon points='16,4 28,16 26,16 26,28 6,28 6,16 4,16' fill='%235CDD24'/></svg>" />
 
-  <!-- Fonts -->
+  <!-- Fonts — async load to avoid render-blocking -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700;900&family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700;900&family=Roboto:wght@400;500&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700;900&family=Roboto:wght@400;500&display=swap" /></noscript>
 
-  <!-- GA4 Placeholder -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <!-- GA4 — replace G-XXXXXXXXXX with real ID before going live -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-XXXXXXXXXX');
-  </script>
+  </script> -->
 
   <!-- Schema Markup -->
   <script type="application/ld+json">
@@ -414,7 +415,7 @@
             <p>Sunday: Closed</p>
           </div>
           <div class="footer-badges" aria-label="Certifications">
-            <img src="/Logos/bbb.png" alt="BBB Accredited Business" class="footer-bbb-logo" />
+            <img src="/Logos/bbb.png" alt="BBB Accredited Business" class="footer-bbb-logo" width="128" height="48" />
             <span class="footer-badge"><svg aria-hidden="true" class="lucide"><use href="#icon-shield-check"/></svg> Licensed &amp; Insured</span>
           </div>
         </div>

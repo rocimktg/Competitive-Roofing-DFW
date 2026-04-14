@@ -198,7 +198,8 @@ function initSlider(containerId, beforeId, handleId) {
   });
 
   // Set initial handle position
-  setPosition(container.getBoundingClientRect().left + container.offsetWidth * 0.5);
+  const initRect = container.getBoundingClientRect();
+  setPosition(initRect.left + initRect.width * 0.5);
 }
 
 // ── Gallery Lightbox ─────────────────────────────────────────
