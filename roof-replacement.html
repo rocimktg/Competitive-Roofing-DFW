@@ -16,11 +16,10 @@
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%232B2B2B'/><polygon points='16,4 28,16 26,16 26,28 6,28 6,16 4,16' fill='%235CDD24'/></svg>" />
 
-  <!-- Fonts — async load to avoid render-blocking -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700;900&family=Roboto:wght@400;500&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700;900&family=Roboto:wght@400;500&display=swap" /></noscript>
+  <!-- Fonts — self-hosted, no Google Fonts request -->
+  <link rel="preload" href="/fonts/web/KumbhSans-Variable.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/fonts/web/Roboto-Regular.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/fonts/web/Roboto-Medium.woff2" as="font" type="font/woff2" crossorigin />
 
   <!-- GA4 — replace G-XXXXXXXXXX with real ID before going live -->
   <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>

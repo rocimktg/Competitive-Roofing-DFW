@@ -3,6 +3,29 @@
    Pass 2: All variables, layout, components
    ============================================================ */
 
+/* ── Self-hosted fonts ── */
+@font-face {
+  font-family: 'Kumbh Sans';
+  src: url('/fonts/web/KumbhSans-Variable.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/web/Roboto-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/web/Roboto-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* ── CSS Variables ── */
 :root {
   --green:        #5CDD24;
