@@ -1,0 +1,168 @@
+COMPETITIVE ROOFING & CONSTRUCTION — SEO & STRUCTURAL NOTES
+============================================================
+Last updated: April 2026
+
+
+SEO CHANGES
+-----------
+
+1. H1 KEYWORD TARGETING
+   Homepage h1 updated to include "roofing", "Coppell", and "DFW" organically:
+   "Best Roofing Bids in Coppell & DFW."
+   Previously a tagline with no location/service keywords.
+
+2. SEPARATE SERVICE PAGES CREATED
+   roof-replacement.html and roof-repair.html created as standalone pages.
+   Each page has:
+   - Unique h1 with service + location context
+   - Unique meta title and meta description
+   - Unique Open Graph tags
+   - Schema.org Service markup with areaServed array
+   - Unique body copy — no duplicate content across pages
+   This allows each page to rank independently for service-specific searches
+   (e.g. "roof replacement Coppell TX", "roof repair DFW").
+
+3. SERVICE AREA PAGES / CITY TARGETING
+   All three pages now list 15 cities explicitly:
+   Coppell, Carrollton, Lewisville, Flower Mound, The Colony, Plano,
+   McKinney, Allen, Princeton, Irving, Grapevine, Frisco, Southlake,
+   Fort Worth, Justin.
+   Cities were aligned across homepage and inner pages from the transcript.
+   Previously inner pages listed different cities than the homepage.
+
+4. SCHEMA MARKUP
+   Homepage: HomeAndConstructionBusiness schema with NAP, coordinates,
+   hours, aggregate rating (5.0 / 26 reviews).
+   Inner pages: Service schema with provider, serviceType, areaServed.
+
+5. META DESCRIPTIONS
+   All three pages have unique, keyword-rich meta descriptions targeting
+   service + location combinations.
+
+6. OPEN GRAPH
+   All three pages have og:title, og:description, og:image, og:url tags.
+
+7. STRUCTURED NAP IN FOOTER
+   Name, address, phone in <address> tag on all pages.
+   Consistent across homepage and both service pages.
+   Address: 309 Clear Haven, Coppell, TX 75019 / (817) 454-2113
+
+8. FAVICON
+   Custom SVG favicon with CRC logo mark — previously defaulted to browser
+   default, which showed incorrectly on some search results.
+
+9. FOOTER GOOGLE REVIEW LINK
+   Direct link to Google review page on all three pages.
+
+10. INTERNAL LINKING
+    Nav links to roof-replacement.html and roof-repair.html on all pages.
+    Footer service links cross-link between pages.
+    Previously "Roof Repair" linked to index.html#services (an anchor,
+    not a dedicated page).
+
+11. PULL QUOTE ACCURACY
+    Pull quote on roof-replacement.html corrected to match the real story:
+    Richardson homeowner, cash job, roof too old for insurance.
+    Previously attributed to "Southlake homeowner" with "hail damage" —
+    both incorrect. Fabricated dollar amounts removed.
+
+12. DOLLAR AMOUNTS REMOVED
+    Specific pricing figures ($5,000–$9,000, $7,000) removed from copy.
+    Prevents anchoring customer expectations incorrectly.
+    Replaced with qualitative language ("significantly higher").
+
+
+STRUCTURAL CHANGES
+------------------
+
+1. STATIC HTML / NO CMS
+   Site is vanilla HTML/CSS/JS — no WordPress, no page builder.
+   Result: load times significantly faster than WordPress equivalents.
+   Pingdom: ~427ms / ~1MB at time of last test.
+
+2. AVIF IMAGE CONVERSION
+   All 120+ images converted from JPG to AVIF using avifenc (libavif).
+   Significant file size reduction across the board.
+
+3. INLINE SVG SPRITE
+   Replaced 486KB Lucide CDN script with a ~2KB inline SVG sprite.
+   19 icons defined as <symbol> elements, referenced via <use href>.
+
+4. BEFORE/AFTER SLIDERS
+   Two sliders on homepage (roof, fence) using CSS clip-path reveal.
+   Pointer Events API with setPointerCapture for smooth drag.
+   touch-action: none on handle prevents browser scroll conflict.
+
+5. MOBILE MENU
+   Hamburger overlay with scroll lock, Escape key support, aria-expanded.
+
+6. ESTIMATE MODAL
+   Single modal shared across all CTAs per page.
+   Each page uses a unique Netlify form name to distinguish submissions:
+   estimate-modal, estimate-modal-replacement, estimate-modal-repair.
+   Same pattern for footer forms.
+
+7. NETLIFY FORMS
+   All forms use data-netlify="true" and honeypot fields.
+   Each form has a unique name attribute so submissions are identifiable
+   by which page they came from.
+
+8. TRUST SECTION (HOMEPAGE)
+   Two separate trust-bar sections merged into one 6-card section.
+   Deduplicated overlapping "owner" cards — each of the 6 cards now
+   covers a distinct trust signal:
+   - Owner on Every Job (job oversight)
+   - No Sales Rep / No Commission (pricing honesty)
+   - Permits Pulled (regulatory compliance)
+   - Referral-Driven Reputation (social proof)
+   - Owens Corning — Built Nearby (product trust + local connection)
+   - We Like Those Odds (confidence / competitive angle)
+
+9. PARTNERS SECTION
+   Desktop: animated infinite scroll marquee.
+   Mobile: 2-column static grid — all logos visible without scrolling.
+   NOTE: GAF Certified and Lowe's Installer logos are placeholders.
+   Craig needs to confirm which accreditations he actually holds before
+   these go live permanently.
+
+10. FEATURE PHOTO (INNER PAGES)
+    Mini-gallery (6-photo grid) replaced with single full-width photo
+    at 16:6 aspect ratio on roof-replacement.html and roof-repair.html.
+
+11. GREEN ACCENT ELEMENTS (INNER PAGES)
+    Em-dash (—) in green added above each feature-item title via CSS ::before.
+    Prose-accent class: subtle green left border on body paragraphs in
+    the dark CRC Difference section.
+
+12. CITY BADGE HOVER
+    On hover: badge background turns green, text and map icon both turn white.
+    Previously icon stayed green (invisible against green background).
+
+13. BEFORE/AFTER SLIDERS — FENCE AND ROOF
+    Images: Images/before_afters/roof_before.avif, roof_after.avif,
+    fence_before.avif, fence_after.avif.
+
+14. STATUS DOT
+    Green pulsing dot next to phone number in nav.
+    Turns grey (offline class) outside Mon–Sat 8AM–6PM via JS.
+
+15. ANIMATED COUNTERS
+    Three stats in trust bar: 16+ Years / 26 Reviews / 100% Free Inspections.
+    Animate on scroll using IntersectionObserver. Respects prefers-reduced-motion.
+
+16. SCROLL FADE-UP ANIMATIONS
+    .fade-up class + IntersectionObserver on service cards, reviews, area badges.
+    Disabled entirely when prefers-reduced-motion is set.
+
+
+PENDING / TO DO
+---------------
+
+- Confirm GAF Certified and Lowe's Installer logos with Craig before going live
+- Set up 301 redirect from old Google Sites URL to competitiveroofingdfw.com
+- Update Google Business Profile URL to point to new site
+- Create location-specific landing pages (e.g. /roofing-coppell, /roofing-plano)
+  for deeper local SEO targeting — per JJ's recommendation in discovery call
+- Add YouTube video embeds when Craig uploads work videos
+- Replace GA4 placeholder (G-XXXXXXXXXX) with actual tracking ID
+- Consider Google Guaranteed / Local Services Ads setup
