@@ -343,14 +343,20 @@ function initGalleryParallax() {
 // ── Nav scroll shadow + shrink ────────────────────────────────
 function initNavShadow() {
   const nav = document.getElementById('nav');
+  const menuOverlay = document.getElementById('menu-overlay');
   if (!nav) return;
+  function updateMenuTop() {
+    if (menuOverlay) menuOverlay.style.top = nav.offsetHeight + 'px';
+  }
   window.addEventListener('scroll', () => {
     const scrolled = window.scrollY > 10;
     nav.style.boxShadow = scrolled
       ? '0 4px 32px rgba(0,0,0,0.5)'
       : '0 2px 20px rgba(0,0,0,0.3)';
     nav.classList.toggle('scrolled', scrolled);
+    updateMenuTop();
   }, { passive: true });
+  updateMenuTop();
 }
 
 // ── Footer year ───────────────────────────────────────────────
