@@ -340,14 +340,16 @@ function initGalleryParallax() {
   });
 }
 
-// ── Nav scroll shadow ─────────────────────────────────────────
+// ── Nav scroll shadow + shrink ────────────────────────────────
 function initNavShadow() {
   const nav = document.getElementById('nav');
   if (!nav) return;
   window.addEventListener('scroll', () => {
-    nav.style.boxShadow = window.scrollY > 10
+    const scrolled = window.scrollY > 10;
+    nav.style.boxShadow = scrolled
       ? '0 4px 32px rgba(0,0,0,0.5)'
       : '0 2px 20px rgba(0,0,0,0.3)';
+    nav.classList.toggle('scrolled', scrolled);
   }, { passive: true });
 }
 
