@@ -1,547 +1,551 @@
+================================================================
 COMPETITIVE ROOFING & CONSTRUCTION — WEBSITE COPY
-==================================================
-All outward-facing copy across index.html, roof-replacement.html, and roof-repair.html.
-Last updated: April 2026
+Updated: 2026-04-17
+================================================================
 
 
-================================================================================
-PAGE: index.html (Homepage)
-================================================================================
+================================================================
+PAGE: index.html (Home)
+================================================================
 
 --- META ---
-
 Page title: Best Roofing Company in Coppell TX | Competitive Roofing & Construction
 Meta description: Competitive Roofing & Construction — Coppell TX's trusted roofing contractor. Free inspections, storm damage specialists, A+ BBB rated. Serving the DFW Metroplex.
 
-
 --- NAV ---
-
-Home | Roof Replacement | Roof Repair | Service Areas | Contact
-Phone: (817) 454-2113
-CTA button: Get a Free Estimate
-
+Home
+Roof Replacement
+Roof Repair
+Service Areas
+Contact
+(817) 454-2113
+Get a Free Estimate
 
 --- HERO ---
+[Badges]
+A+ BBB Accredited
+5.0 Google Rating
+Owner-Led Estimates
 
-Badges: A+ BBB Accredited · 5.0 Google Rating · Owner-Led Estimates
+[H1]
+Most Trusted Roofing
+in Coppell & DFW.
 
-H1: Best Roofing Bids in Coppell & DFW.
+[Subheading]
+Locally owned and operated since 2010 — serving Coppell and the entire Dallas/Fort-Worth Metroplex. When you get a bid from Craig, you're getting the actual cost of the job. No commission baked in, no pressure to sign. Just honest work at a fair price.
 
-Subheading: Locally owned and operated since 2010 — serving Coppell and the entire Dallas/Fort-Worth Metroplex. When you get a bid from Craig, you're getting the actual cost of the job. No commission baked in, no pressure to sign. Just honest work at a fair price.
+[CTAs]
+Claim Your Free Estimate
+(817) 454-2113
 
-CTAs: Claim Your Free Estimate | (817) 454-2113
-
-Note: Free roof inspections · Permits pulled where required · Licensed & insured
-
+[Note]
+Free roof inspections · Permits pulled where required · Licensed & insured
 
 --- TRUST BAR ---
+[H2]
+Get Every Quote You Want. Then Get Ours.
 
-H2: Get Every Quote You Want. Then Get Ours.
+[Body]
+The biggest roofing companies in DFW carry a lot of overhead — showrooms, sales reps, commission structures. You're paying for all of it whether you realize it or not. Craig owns the company. Craig shows up. When you get a bid from Competitive Roofing, you're getting the actual cost of the job — and that's it.
 
-Body: The biggest roofing companies in DFW carry a lot of overhead — showrooms, sales reps, commission structures. You're paying for all of it whether you realize it or not. Craig owns the company. Craig shows up. When you get a bid from Competitive Roofing, you're getting the actual cost of the job — and that's it.
+[Cards]
+Owner on Every Job
+Craig doesn't hand jobs off. He handles the estimate, stays on the job with his crew, and does the final walkthrough with you before calling it done.
 
-Trust Cards:
+No Sales Rep. No Commission.
+There's no salesperson between you and the owner. No commission built into the bid, no quota to hit. Just the actual cost of the job.
 
-  Owner on Every Job
-  Craig doesn't hand jobs off. He handles the estimate, stays on the job with his crew, and does the final walkthrough with you before calling it done.
+Permits Pulled. Work Done Right.
+We register with cities when required, pull permits, and do the job the right way instead of cutting corners.
 
-  No Sales Rep. No Commission.
-  There's no salesperson between you and the owner. No commission built into the bid, no quota to hit. Just the actual cost of the job.
+Referral-Driven Reputation
+Most of our work comes from referrals and repeat customers, not door knocking or high-pressure sales tactics.
 
-  Permits Pulled. Work Done Right.
-  We register with cities when required, pull permits, and do the job the right way instead of cutting corners.
+Owens Corning — Built Nearby
+We primarily install Owens Corning shingles, manufactured at facilities right here in North Texas. Local materials, installed by people who live here.
 
-  Referral-Driven Reputation
-  Most of our work comes from referrals and repeat customers, not door knocking or high-pressure sales tactics.
+We Like Those Odds
+Get your other quotes first. Then call us. Homeowners who shop around almost always come back.
 
-  Owens Corning — Built Nearby
-  We primarily install Owens Corning shingles, manufactured at facilities right here in North Texas. Local materials, installed by people who live here.
-
-  We Like Those Odds
-  Get your other quotes first. Then call us. Homeowners who shop around almost always come back.
-
-CTA: Get My Free Estimate
-
+[CTA]
+Get My Free Estimate
 
 --- SERVICES ---
+[H2]
+Roof Replacement Is Our Bread and Butter
 
-H2: Roof Replacement Is Our Bread and Butter
+[Subheading]
+We focus first on roof replacements, roof repairs, storm damage inspections, and gutters for homeowners in Coppell and across DFW. We also handle select exterior projects like fences and patios.
 
-Intro: We focus first on roof replacements, roof repairs, storm damage inspections, and gutters for homeowners in Coppell and across DFW. We also handle select exterior projects like fences and patios.
+[Service Cards]
 
-  Roof Replacements
-  Full roof replacements are what we do most. We primarily install Owens Corning impact-resistant shingles — manufactured right here in North Texas — and upgrade the underlayment, ridge caps, and ventilation so you're getting a complete roofing system, not a quick patch job.
-  CTA: Get a Free Estimate
+Roof Replacements
+Full roof replacements are what we do most. We primarily install Owens Corning impact-resistant shingles — manufactured right here in North Texas — and upgrade the underlayment, ridge caps, and ventilation so you're getting a complete roofing system, not a quick patch job.
+CTA: Get a Free Estimate
 
-  Roof Repairs
-  Leaks, missing shingles, flashing issues, and storm damage all get handled quickly and honestly. If your roof can be repaired instead of replaced, we'll tell you that.
-  CTA: Schedule a Repair
+Roof Repairs
+Leaks, missing shingles, flashing issues, and storm damage all get handled quickly and honestly. If your roof can be repaired instead of replaced, we'll tell you that.
+CTA: Schedule a Repair
 
-  Storm Damage Inspections
-  North Texas storms hit hard. We provide free, no-pressure inspections to identify hail and wind damage and, when appropriate, work directly with your insurance adjuster.
-  CTA: Get a Free Inspection
+Storm Damage Inspections
+North Texas storms hit hard. We provide free, no-pressure inspections to identify hail and wind damage and, when appropriate, work directly with your insurance adjuster.
+CTA: Get a Free Inspection
 
-  Gutters & Gutter Guards
-  Roofing and gutters go hand in hand. We install gutters and gutter guards that move water away from your roofline and foundation the way they should.
-  CTA: Get a Free Estimate
+Gutters & Gutter Guards
+Roofing and gutters go hand in hand. We install gutters and gutter guards that move water away from your roofline and foundation the way they should.
+CTA: Get a Free Estimate
 
-  Fences
-  We also build and repair premium cedar fences for homeowners who already know our roofing work and want the same reliability on another exterior project.
-  CTA: Get a Free Estimate
+Fences
+We also build and repair premium cedar fences for homeowners who already know our roofing work and want the same reliability on another exterior project.
+CTA: Get a Free Estimate
 
-  Patios & Pergolas
-  From pergolas to custom patio builds, we take on select outdoor projects for homeowners looking for one trusted local contractor.
-  CTA: Start My Project
+Patios & Pergolas
+From pergolas to custom patio builds, we take on select outdoor projects for homeowners looking for one trusted local contractor.
+CTA: Start My Project
 
+--- BEFORE/AFTER SLIDER ---
+[H2]
+The CRC Difference
 
---- BEFORE/AFTER SLIDERS ---
-
-Section heading: The CRC Difference
-Subheading: Real roof replacement results from Coppell and across DFW. Drag the handle to compare.
-
-Section heading (fence): New Fences Too
-Subheading: We build premium cedar fences that last. Drag to compare.
-
+[Subheading]
+Real roof replacement results from Coppell and across DFW. Drag the handle to compare.
 
 --- GALLERY ---
+[H2]
+Real Projects Across Coppell & DFW
 
-H2: Real Projects Across Coppell & DFW
+[Subheading]
+Roof replacements are our main focus, but you'll also see the kind of clean, detailed exterior work we're known for. Click any photo to view full size.
 
-Intro: Roof replacements are our main focus, but you'll also see the kind of clean, detailed exterior work we're known for. Click any photo to view full size.
+[CTA]
+Start My Project
 
-CTA: Start My Project
+--- FENCE BEFORE/AFTER ---
+[H2]
+New Fences Too
 
+[Subheading]
+We build premium cedar fences that last. Drag to compare.
 
 --- REVIEWS ---
+[Rating Badge]
+★★★★★  5.0  26 Google Reviews
 
-Rating badge: ★★★★★ 5.0 · 26 Google Reviews
+[H2]
+What Coppell Homeowners Are Saying
 
-H2: What Coppell Homeowners Are Saying
+[Subheading]
+Most of our work comes from referrals. These reviews reflect the way we actually operate: honest bids, clear communication, and no pressure.
 
-Intro: Most of our work comes from referrals. These reviews reflect the way we actually operate: honest bids, clear communication, and no pressure.
+[Reviews]
 
-  Ray Gun — Coppell, TX
-  ★★★★★
-  "Craig and his team are outstanding. After the storm ripped shingles off our roof, Craig responded quickly — knowing rain was on the way — and fixed everything on short notice. He walked us through every detail and even worked directly with our insurance adjuster."
+★★★★★
+"Craig and his team are outstanding. After the storm ripped shingles off our roof, Craig responded quickly — knowing rain was on the way — and fixed everything on short notice. He walked us through every detail and even worked directly with our insurance adjuster."
+— Ray Gun, Coppell, TX
 
-  Thomas Morgan — Coppell, TX
-  ★★★★★
-  "Craig's crew identified the issue and repaired it the same day at a fair price. They matched the shingles so well I can barely tell any work was done. I'll definitely be recommending them to friends and family."
+★★★★★
+"Craig's crew identified the issue and repaired it the same day at a fair price. They matched the shingles so well I can barely tell any work was done. I'll definitely be recommending them to friends and family."
+— Thomas Morgan, Coppell, TX
 
-  Andrew Chambers — Coppell, TX
-  ★★★★★
-  "Craig & team were responsive, professional and thorough replacing several roofing tiles we lost in recent windstorms. I've already recommended Competitive Roofing to friends. This is a great, local company!"
+★★★★★
+"Craig & team were responsive, professional and thorough replacing several roofing tiles we lost in recent windstorms. I've already recommended Competitive Roofing to friends. This is a great, local company!"
+— Andrew Chambers, Coppell, TX
 
-  Richard Quach — Coppell, TX
-  ★★★★★
-  "Craig came out for a same-day inspection after a huge storm. Damage was minimal, and it was repaired quickly at a reasonable price. I appreciate Craig's honesty and transparency — which you don't see often."
+★★★★★
+"Craig came out for a same-day inspection after a huge storm. Damage was minimal, and it was repaired quickly at a reasonable price. I appreciate Craig's honesty and transparency — which you don't see often."
+— Richard Quach, Coppell, TX
 
-  Deanna Webb — Coppell, TX
-  ★★★★★
-  "We had storm chasers knocking on our door but avoided all of them. Craig was very quick to respond, explained everything clearly, and told us honestly that our roof did not need replacing. We appreciate his integrity and have already recommended him to family."
+★★★★★
+"We had storm chasers knocking on our door but avoided all of them. Craig was very quick to respond, explained everything clearly, and told us honestly that our roof did not need replacing. We appreciate his integrity and have already recommended him to family."
+— Deanna Webb, Coppell, TX
 
-  Roy Wood — Coppell, TX
-  ★★★★★
-  "Professional, responsive, and thorough in repairing roof damage from recent windstorms. The quality of their work was excellent. I've already recommended Competitive Roofing & Construction and will gladly continue to do so."
+★★★★★
+"Professional, responsive, and thorough in repairing roof damage from recent windstorms. The quality of their work was excellent. I've already recommended Competitive Roofing & Construction and will gladly continue to do so."
+— Roy Wood, Coppell, TX
 
-CTAs: Claim Your Free Estimate | Happy with our work? Leave us a Google Review →
-
+[CTAs]
+Claim Your Free Estimate
+Happy with our work? Leave us a Google Review →
 
 --- ABOUT ---
+[H2]
+About Competitive Roofing
 
-H2: About Competitive Roofing
+[Lead]
+We don't chase storms. We don't knock on doors. And we don't pay sales reps — which means when you get a bid from us, you're getting the actual cost of the job, nothing more. The majority of our business comes from referrals, because homeowners who find us tend to stick around.
 
-Lead: We don't chase storms. We don't knock on doors. And we don't pay sales reps — which means when you get a bid from us, you're getting the actual cost of the job, nothing more. The majority of our business comes from referrals, because homeowners who find us tend to stick around.
+[Body]
+Craig and his ten-person crew have been serving Coppell and the DFW Metroplex since 2010. This is a locally owned, owner-operated company, which means when you call, the person you're talking to is the person responsible for the work.
 
-Body: Craig and his ten-person crew have been serving Coppell and the DFW Metroplex since 2010. This is a locally owned, owner-operated company, which means when you call, the person you're talking to is the person responsible for the work.
+We register with cities when required, pull permits when needed, and work directly with insurance companies when storm damage is legitimate. No storm-chaser tactics. No inflated estimate to cover commissions. Just straightforward roofing done the right way.
 
-Body: We register with cities when required, pull permits when needed, and work directly with insurance companies when storm damage is legitimate. No storm-chaser tactics. No inflated estimate to cover commissions. Just straightforward roofing done the right way.
+[Credentials]
+A+ BBB Accredited Business
+Registered & Permitted Where Required
+Owner-Operated in Coppell Since 2010
+Owens Corning Shingles — Manufactured in North Texas
 
-Credentials:
-  A+ BBB Accredited Business
-  Registered & Permitted Where Required
-  Owner-Operated in Coppell Since 2010
-  Owens Corning Shingles — Manufactured in North Texas
-
-CTA: Start My Project
-
+[CTA]
+Start My Project
 
 --- SERVICE AREA ---
+[H2]
+Serving Coppell First, Then the Rest of DFW
 
-H2: Serving Coppell First, Then the Rest of DFW
+[Subheading]
+Our core service area is Coppell and the surrounding cities where most of our referrals come from, but we take roof replacement and repair projects across the DFW Metroplex.
 
-Intro: Our core service area is Coppell and the surrounding cities where most of our referrals come from, but we take roof replacement and repair projects across the DFW Metroplex.
-
-Cities: Coppell · Carrollton · Lewisville · Flower Mound · The Colony · Plano · McKinney · Allen · Princeton · Irving · Grapevine · Frisco · Southlake · Fort Worth · Justin · Denton County · Dallas County · Collin County
-
+[Cities]
+Coppell · Carrollton · Lewisville · Flower Mound · The Colony · Plano · McKinney · Allen · Princeton · Irving · Grapevine · Frisco · Southlake · Fort Worth · Justin · Denton County · Dallas County · Collin County
 
 --- FAQ ---
+[H2]
+Frequently Asked Questions
 
-H2: Frequently Asked Questions
+[Subheading]
+Straight answers about roof replacements, inspections, bids, and how we work.
 
-Intro: Straight answers about roof replacements, inspections, bids, and how we work.
+Q: Should I get multiple bids before replacing my roof?
+A: Yes. We actually encourage it. Get your other quotes first, then call us last. Homeowners who shop around usually notice the difference when they're talking directly to the owner instead of a commissioned sales rep.
 
-  Q: Should I get multiple bids before replacing my roof?
-  A: Yes. We actually encourage it. Get your other quotes first, then call us last. Homeowners who shop around usually notice the difference when they're talking directly to the owner instead of a commissioned sales rep.
+Q: Will I be dealing with a sales rep or the owner?
+A: You'll be dealing directly with Craig. He takes the call, does the inspection, writes the bid, and stands behind the work. That's a big part of why our estimates stay straightforward and why homeowners feel comfortable calling us back.
 
-  Q: Will I be dealing with a sales rep or the owner?
-  A: You'll be dealing directly with Craig. He takes the call, does the inspection, writes the bid, and stands behind the work. That's a big part of why our estimates stay straightforward and why homeowners feel comfortable calling us back.
+Q: Do you pull permits and register with cities when required?
+A: Yes. Any city that requires registration or permits, we handle that. We do the work the right way, not the fastest way, because that's what protects you and your home long after the job is done.
 
-  Q: Do you pull permits and register with cities when required?
-  A: Yes. Any city that requires registration or permits, we handle that. We do the work the right way, not the fastest way, because that's what protects you and your home long after the job is done.
+Q: Do you work with my insurance company?
+A: Yes, when storm damage is legitimate and a claim makes sense. We work directly with your insurance adjuster to document damage and support the claims process, but we never pressure homeowners into filing claims they don't need.
 
-  Q: Do you work with my insurance company?
-  A: Yes, when storm damage is legitimate and a claim makes sense. We work directly with your insurance adjuster to document damage and support the claims process, but we never pressure homeowners into filing claims they don't need.
+Q: What kind of shingles do you use on roof replacements?
+A: We primarily install Owens Corning roofing systems, including impact-resistant shingles that are built for North Texas weather. We also upgrade the underlayment, ridge caps, and ventilation so the whole roof system performs the way it should.
 
-  Q: What kind of shingles do you use on roof replacements?
-  A: We primarily install Owens Corning roofing systems, including impact-resistant shingles that are built for North Texas weather. We also upgrade the underlayment, ridge caps, and ventilation so the whole roof system performs the way it should.
-
-  Q: What areas do you serve?
-  A: Coppell is home base, and a lot of our work comes from Coppell, Carrollton, Lewisville, Flower Mound, The Colony, and Plano. We also take projects across the wider DFW Metroplex, especially when it's a good fit for roof replacement, repair, or storm restoration.
-
+Q: What areas do you serve?
+A: Coppell is home base, and a lot of our work comes from Coppell, Carrollton, Lewisville, Flower Mound, The Colony, and Plano. We also take projects across the wider DFW Metroplex, especially when it's a good fit for roof replacement, repair, or storm restoration.
 
 --- PARTNERS ---
+[H2]
+Trusted by Homeowners. Backed by the Right Names.
 
-H2: Trusted by Homeowners. Backed by the Right Names.
+[Subheading]
+Accreditations, certifications, and product partners that reinforce the way we do business.
 
-Intro: Accreditations, certifications, and product partners that reinforce the way we do business.
+[Partners]
+Owens Corning · GAF Certified · Better Business Bureau · Lowe's Installer
 
-Partners: Owens Corning · GAF Certified [placeholder] · Better Business Bureau · Lowe's Installer [placeholder]
+--- FOOTER FORM ---
+Get a Free Estimate
+[Fields: Full Name, Phone, Email, Service Needed, Message]
+CTA: Send My Request
 
-
---- FOOTER ---
-
-Form heading: Get a Free Estimate
-
-Business info:
-  Competitive Roofing & Construction
-  309 Clear Haven, Coppell, TX 75019
-  (817) 454-2113
-  competitiveroofingdfw@gmail.com
-  Hours: Monday – Saturday: 8 AM – 6 PM · Sunday: Closed
-  Licensed & Insured
-
-Services list: Storm Damage Inspections · Roof Replacements · Roof Repairs · Gutters & Gutter Guards · Fences · Patios & Pergolas · General Contracting
-
-Google review link: Happy with our work? Leave us a Google Review →
-
-Footer note: © 2026 Competitive Roofing & Construction. All Rights Reserved.
-
-
---- ESTIMATE MODAL ---
-
-Title: Get Your Free Estimate
-Subheading: We'll respond within 24 hours — usually same day.
-
-Form fields: Full Name · Phone · Email · Service Needed · Property Address · Message
-Submit: Send My Request
-
-Services in dropdown: Storm Damage Inspection · Roof Replacement · Roof Repair · Gutters / Gutter Guards · Fence · Patio / Pergola · General Contracting · Other
-
-
-================================================================================
-PAGE: roof-replacement.html
-================================================================================
-
---- META ---
-
-Page title: Roof Replacement in Coppell TX | Competitive Roofing & Construction
-Meta description: Full roof replacement in Coppell & DFW by Competitive Roofing & Construction. Owens Corning shingles, storm damage experts, free inspections. Owner Craig on every job.
-
-
---- PAGE HERO ---
-
-Label: Roof Replacement — Coppell & DFW
-
-H1: A New Roof Done Right.
-    At a Price That's Fair.
-
-Body: Most roofing bids in DFW include a salesperson's commission — sometimes thousands of dollars. When you call Craig, you're talking to the owner. He writes the estimate himself, pulls the permits, and puts his ten-person crew on the job from start to finish. No middlemen, no hidden markups.
-
-CTAs: Get a Free Roof Inspection | (817) 454-2113
-
-
---- TRUST STRIP ---
-
-A+ BBB Accredited · 5.0 Google Rating · 26 Reviews · Licensed & Insured in Texas · Free Inspections · No Obligation · Owner on Every Job
-
-
---- WHAT'S INCLUDED ---
-
-H2: What's Included in Every Roof Replacement
-
-Intro: We don't offer tiered packages or bait-and-switch upgrades. Every replacement we do includes these components as standard — because skimping on any of them means callbacks down the road, and we're not interested in that.
-
-  Owens Corning Duration Series Shingles
-  We install Owens Corning Duration Series shingles on every project unless the customer specifically requests otherwise. They carry a Lifetime Limited warranty, Class 4 impact resistance rating, and SureNail Technology that significantly outperforms standard hand-seal strips in high-wind conditions. We've been installing them long enough to know how they hold up in DFW summers and spring hail seasons — and they hold up well. Owens Corning manufactures shingles at facilities right here in North Texas, so when we order your materials, they're not shipping cross-country. If you've been quoted on a cheaper shingle elsewhere, ask the other contractor what their callback rate looks like after the first year.
-
-  ProArmor Synthetic Underlayment
-  The underlayment is the last line of defense between your decking and the elements — it matters a lot more than most homeowners realize. We use synthetic underlayment on every job instead of traditional felt. It's lighter, more tear-resistant, and doesn't absorb moisture the way 15- or 30-pound felt does. If a shingle gets blown off in a storm before the insurance crew shows up, your underlayment is what keeps water out of your attic. We don't cut corners there.
-
-  Ridge Cap Shingles & Proper Ventilation
-  A lot of contractors install 3-tab cut shingles as ridge caps because they're cheaper and faster. We install purpose-built ridge cap shingles every time — they're thicker, shaped correctly for ridge exposure, and rated for it. We also assess ventilation on every job. A poorly ventilated attic can reduce shingle life by 20–30%, void manufacturer warranties, and cost you significantly more in cooling bills. If we find ventilation issues during tear-off, we'll tell you what we found and what it costs to fix it — before we button everything back up.
-
-  Full Tear-Off & Debris Removal
-  We tear off all existing roofing material down to the decking before anything new goes on. Some contractors will reroof over an existing layer to save time — this adds weight to your structure, traps heat and moisture between layers, and voids most manufacturer warranties. We don't do that. We also inspect the decking for soft spots, rot, or damaged sheathing while we're down to bare wood, and we replace what needs replacing. Your yard gets cleaned up the same day we finish. No piles of shingles left in your driveway, no stray nails in the grass.
-
-
---- THE CRC DIFFERENCE ---
-
-H2: The CRC Difference
-
-Intro: We're not the cheapest option in DFW, and we don't try to be. What we offer is a bid where every line item is legitimate — no inflated material costs, no mystery disposal fees, no commission buried in the total.
-
-Body: Most large roofing companies in the area use door-to-door sales reps who work on commission. Their job is to maximize the sale, not minimize your cost. By the time a bid lands in your inbox, you've paid for their fuel, their sales training, their quota, and their cut of the job. We've had customers show us bids from competitors that were significantly higher than ours — for the same materials on the same square footage. We're not making that up — it's a systemic issue in the industry.
-
-Body: Craig started this company in 2010 with a straightforward premise: write honest bids, do good work, and let the results speak. Sixteen years later, Craig and his ten-person crew earn most of their new business from referrals or neighbors who saw the work firsthand. We've never had a door-to-door sales team and we never will.
-
-Pull quote: "We got four bids. Craig's came in lower than all of them — by a significant margin. Same Owens Corning shingles, same scope, same warranty. Wish we'd called him first."
-— Richardson homeowner, 2024 · Full cash replacement, roof too old to qualify for insurance
-
-
---- STORM DAMAGE & INSURANCE CLAIMS ---
-
-H2: Storm Damage & Insurance Claims
-
-Intro: Filing a roofing insurance claim in Texas is a process most homeowners have never dealt with before. We've helped dozens of DFW homeowners navigate it from inspection through final payout — here's what that looks like when you work with us versus going it alone.
-
-  Working with CRC:
-  - Free inspection with Craig — photos, measurements, and a written scope of damage
-  - We meet your adjuster on-site and walk the roof with them
-  - We review your claim summary and flag any items the adjuster missed
-  - Supplemental claims filed when the initial payout is short
-  - We handle permitting and city registration where required
-  - You pay your deductible — we handle the rest of the insurance paperwork
-  - Final walkthrough with Craig before we consider the job closed
-
-  Going it alone:
-  - Adjuster inspects solo — no contractor advocate on the roof
-  - Missed line items (flashing, underlayment, ventilation) go unpaid
-  - Low initial payout with no one to file a supplement
-  - You're responsible for interpreting the claim summary yourself
-  - Permits your responsibility — or skipped entirely
-  - No documentation if something fails inspection after the fact
-  - No post-job walkthrough or warranty follow-up
-
-
---- SERVICE AREAS ---
-
-H2: Service Areas
-
-Intro: We replace roofs throughout the DFW Metroplex. If you're not sure whether we cover your area, call — we almost certainly do.
-
-Cities: Coppell · Carrollton · Lewisville · Flower Mound · The Colony · Plano · McKinney · Allen · Princeton · Irving · Grapevine · Frisco · Southlake · Fort Worth · Justin
-
-
---- FAQ ---
-
-H2: Common Questions
-
-  Q: How long does a full roof replacement take?
-  A: Most residential replacements in DFW are completed in a single day. Larger homes, complex rooflines, or jobs that require significant decking repair may run into a second day. We don't start a job we can't close properly — you won't have a half-finished roof sitting overnight unless there's a genuine weather delay. We communicate before, during, and after.
-
-  Q: Do I need to be home during the replacement?
-  A: You don't need to be home during the work, but we recommend being available by phone. Craig will do a walkthrough with you at the end of the job to review the finished roof and go over any decking issues we found, ventilation notes, or warranty paperwork. If you can't be there, we'll document everything and go over it with you remotely — but most customers find it worth being around for the final walkthrough.
-
-  Q: What happens if you find rotten or damaged decking?
-  A: We inspect the decking during tear-off and document anything that needs attention with photos. If we find soft spots or damaged sheathing, we'll contact you immediately with the square footage, the cost to replace it, and photos so you can see exactly what we're looking at. We don't proceed without your approval. Decking replacement is priced per sheet and is typically a small addition to the overall job cost.
-
-  Q: Will my homeowner's insurance cover a full replacement?
-  A: If the damage is from a covered event — hail, wind, a fallen tree — most standard Texas homeowner's policies will cover the replacement minus your deductible. The key is having an advocate on the roof during the adjuster visit. We've seen adjusters miss flashing damage, gutter damage, and underlayment issues that are legitimately covered. When Craig is on the roof during that inspection, those items get documented and included in the claim. We also file supplemental claims when the initial payout doesn't reflect the actual scope.
-
-  Q: Do you pull permits?
-  A: Yes — where required. Coppell, Southlake, and several other DFW cities require permits for full roof replacements. We register with the city, pull the permit, and schedule any required inspections. Some contractors skip this step to save time and money. We don't. A roof installed without a required permit can create issues when you sell the home, void your homeowner's insurance coverage, or lead to fines if the city finds out during a neighbor's inspection.
-
-
---- FOOTER CTA ---
-
-H2: Ready for an Honest Estimate?
-
-Body: No commission, no pressure, no sales rep. Just Craig — the owner — on your roof with a clipboard and a straight answer.
-
-CTAs: Request a Free Inspection | (817) 454-2113
-
-
---- FOOTER ---
-
-(Same as homepage — see above)
-
-
-================================================================================
-PAGE: roof-repair.html
-================================================================================
-
---- META ---
-
-Page title: Roof Repair in Coppell TX | Competitive Roofing & Construction
-Meta description: Roof repair in Coppell & DFW by Competitive Roofing & Construction. Leak fixes, storm damage, missing shingles, flashing — same-day response available. Free inspection.
-
-
---- PAGE HERO ---
-
-Label: Roof Repair — Coppell & DFW
-
-H1: Stop the Leak.
-    Fix It the Right Way
-    the First Time.
-
-Body: A small roof problem rarely stays small. A missing shingle becomes a leak. A leak becomes attic damage. Attic damage becomes a mold issue and an insurance headache. Craig and his ten-person crew find the actual source of the problem — not just the symptom — and fix it with materials that match your existing roof and hold up long-term.
-
-CTAs: Schedule a Free Inspection | (817) 454-2113
-
-
---- TRUST STRIP ---
-
-A+ BBB Accredited · 5.0 Google Rating · 26 Reviews · Licensed & Insured in Texas · Same-Day Response Available · Owner on Every Job
-
-
---- REPAIRS WE HANDLE ---
-
-H2: Repairs We Handle Every Day
-
-Intro: Most roofing problems in DFW come from the same handful of causes. We've seen and fixed all of them — and we know which ones are quick fixes and which ones are warning signs of something bigger. We'll tell you honestly which category you're in.
-
-  Active Leaks & Water Intrusion
-  If you're seeing water stains on your ceiling, finding wet insulation in your attic, or noticing moisture around a chimney or skylight after rain, you have an active intrusion point that needs to be located and closed before the next storm. Leaks are almost never where you think they are — water travels along decking, rafters, and insulation before it appears inside. We trace the source from the roof down, find the actual entry point, and repair it correctly. Tarping and caulk are temporary measures; we do the actual fix.
-
-  Missing, Cracked, or Lifted Shingles
-  DFW wind events — even ones that don't qualify as major storms — can pull up tab shingles, crack brittle shingles in older sections, or lift entire sections of roofing in severe cases. A single missing shingle exposes felt and decking to direct UV and rain. We carry a broad stock of shingle colors and profiles so we can match your existing roof closely. When an exact match isn't possible, we'll tell you upfront and discuss your options rather than installing something that looks wrong and affects your home's appearance.
-
-  Flashing Failures Around Chimneys, Vents & Valleys
-  Flashing is the metal sheeting that seals the transitions between your roof surface and any penetration — chimneys, pipes, skylights, dormers, and the valleys where two roof planes meet. It's one of the most common failure points on older roofs, and it's frequently installed incorrectly on newer ones. Failed flashing can leak for years before you notice interior damage. We remove and replace damaged flashing rather than layering caulk over it — the caulk-over approach fails within a year or two and leaves the underlying problem intact.
-
-  Hail & Storm Damage
-  Texas hail can range from minor granule loss — which shortens shingle life but doesn't cause immediate leaks — to severe impact damage that cracks shingles, dents metal flashing, and compromises the roof's structural integrity in affected areas. We document hail damage with photos and written scope, which is exactly what your insurance adjuster needs to process a claim. If the damage is limited to a portion of the roof, we can sometimes do a targeted repair rather than a full replacement. We'll tell you which is the right call based on the actual condition of the roof, not what's more profitable for us.
-
-  Ventilation & Ridge Issues
-  Inadequate attic ventilation is one of the most underdiagnosed roofing problems in DFW. When hot air can't exit the attic, it superheats the decking and accelerates shingle deterioration — sometimes by years. It also creates moisture traps in winter that lead to decking rot and mold growth. If your energy bills have crept up or your shingles are aging faster than they should, ventilation is often the culprit. We assess intake and exhaust airflow and can add ridge vents, soffit vents, or box vents as needed to bring your attic ventilation into balance.
-
-  Gutter & Fascia Damage
-  Gutters and fascia boards are closely tied to roof performance — overflowing or improperly pitched gutters can back water up under your drip edge, which eventually leads to fascia rot and soffit damage. Sagging gutters, separated gutter seams, and damaged downspouts all cause water to deposit against your foundation and fascia instead of away from the structure. We repair and reseat gutters as part of roof repair work when the two are connected, rather than treating them as separate unrelated issues.
-
-
---- REPAIR OR REPLACE ---
-
-H2: Repair or Replace? Here's How We Think About It.
-
-Intro: We get this question on almost every repair call. The honest answer depends on the age of the roof, the extent of the damage, and whether the rest of the roof is in good shape. Here's the framework we use — and we'll walk through it with you on your specific roof.
-
-  Repair is usually the right call when…
-  - Roof is under 15 years old and in otherwise good condition
-  - Damage is isolated to one section or a specific penetration point
-  - The underlying decking is solid with no soft spots
-  - No evidence of widespread granule loss or shingle brittleness
-  - A matching shingle is available for the affected area
-  - Insurance is covering a specific storm event, not general wear
-
-  Replacement often makes more sense when…
-  - Roof is 20+ years old and showing widespread wear
-  - Multiple areas need repair simultaneously
-  - Decking damage is found under multiple sections
-  - A third or more of the roof surface is affected by storm damage
-  - Previous repairs have already been done to the same areas
-  - Insurance is covering a full replacement — repair cost approaches replacement
-
-
---- SAME-DAY CTA BLOCK ---
-
-H2: Active Leak? Call Today.
-
-Body: We respond same-day for active water intrusion. Don't wait for the next rain to make it worse — call Craig directly.
-
-CTAs: Request Service Now | (817) 454-2113
-
-
---- STORM DAMAGE & INSURANCE-COVERED REPAIRS ---
-
-H2: Storm Damage & Insurance-Covered Repairs
-
-Intro: Not every storm event triggers a full replacement — sometimes the damage is limited and a targeted repair is the right scope. But even for repairs, the insurance process matters. Here's what you should know.
-
-Body: Texas homeowner's insurance covers storm-related damage to your roof — wind, hail, and falling objects are the most common triggers. The challenge is that adjusters are often looking at roofs from the ground or doing quick drive-bys to assess damage volume, and they frequently miss localized damage to flashing, valleys, and pipe boots. These are exactly the areas where small failures turn into big leaks.
-
-Body: When Craig does your inspection, he documents every item with photos and a written scope. If you file a claim, we're available to meet the adjuster on-site and walk the roof together. This single step — having a contractor on the roof during the adjuster visit — is the biggest factor in whether your claim covers the full scope of the damage. Adjusters miss things. We catch them.
-
-  What we document:
-  - Impact marks and granule loss from hail — with measurement
-  - Lifted, cracked, or missing shingles from wind
-  - Flashing damage and displacement at penetration points
-  - Damaged gutters, drip edge, and fascia
-  - Any interior water damage traceable to the roof event
-  - Ventilation issues exacerbated by storm impact
-
-  What adjusters commonly miss:
-  - Pipe boot and vent flashing damage (not visible from ground)
-  - Valley damage in interior roof sections
-  - Granule loss severity on north-facing slopes
-  - Drip edge displacement under gutter lines
-  - Soft spots indicating underlayment saturation
-  - Partial ridge cap damage from wind uplift
-
-
---- SERVICE AREAS ---
-
-H2: Service Areas
-
-Intro: We repair roofs throughout the DFW Metroplex. If you're not sure whether we cover your area, call — we almost certainly do.
-
-Cities: Coppell · Carrollton · Lewisville · Flower Mound · The Colony · Plano · McKinney · Allen · Princeton · Irving · Grapevine · Frisco · Southlake · Fort Worth · Justin
-
-
---- FAQ ---
-
-H2: Common Questions About Roof Repairs
-
-  Q: How quickly can you respond to an active leak?
-  A: For active water intrusion, we prioritize same-day response. Call Craig directly at (817) 454-2113. If you've got water coming in during or after a storm, the first step is stopping the damage — we can deploy temporary protection while we assess the permanent fix. Don't wait through a second or third rain event hoping it seals itself. It won't.
-
-  Q: Can you match my existing shingles?
-  A: In most cases, yes — we carry a wide range of shingle profiles, colors, and manufacturers. Older roofs can be harder to match, especially if the shingle line has been discontinued. When we do the estimate, we'll tell you exactly how close the match will be before any work begins. If you're concerned about aesthetics, we can discuss options for the affected section that blend better with the surrounding surface.
-
-  Q: Will a repair void my manufacturer's warranty?
-  A: It depends on the warranty terms and who does the work. Most manufacturer warranties require repairs to be performed by a licensed contractor using approved materials. We qualify under both requirements. If you have a specific warranty document you're concerned about, send it to us and we'll review it before we start — we'd rather know about a warranty restriction upfront than find out about it later.
-
-  Q: What's the difference between a repair and a patch?
-  A: A patch is a temporary fix — typically a piece of flashing, a tube of roofing cement, or a piece of mismatched shingle applied over a problem area. Patches are what other contractors do when they're trying to get in and out quickly. A proper repair means removing the compromised material, inspecting what's underneath, replacing the underlayment if needed, and installing new material correctly using the same methods and fasteners as the original installation. We do repairs, not patches.
-
-  Q: Should I file an insurance claim for my repair?
-  A: It depends on the cause of the damage and your deductible. If the damage is from a covered weather event — hail, wind, a falling branch — it's worth at least getting an inspection to document the scope before you decide. If the repair cost is close to or below your deductible, filing a claim may not be worth it. We'll give you an honest assessment of what the repair will cost, what the damage scope looks like, and whether it makes sense to involve your insurance company. We don't push claims — we just tell you the facts.
-
-
---- FOOTER CTA ---
-
-H2: Don't Let a Small Problem Become a Big One.
-
-Body: Get Craig on your roof before the next storm rolls through. Free inspection, honest scope, no pressure to sign anything.
-
-CTAs: Schedule a Free Inspection | (817) 454-2113
-
-
---- FOOTER ---
-
-(Same as homepage — see above)
-
-
-================================================================================
-SHARED ACROSS ALL PAGES
-================================================================================
-
---- ESTIMATE MODAL ---
-
-Title: Get Your Free Estimate
-Subheading: We'll respond within 24 hours — usually same day.
-Submit: Send My Request
-
---- MOBILE CALL BAR ---
-
-Call (817) 454-2113
-
---- BUSINESS NAP ---
-
+--- FOOTER INFO ---
 Competitive Roofing & Construction
 309 Clear Haven
 Coppell, TX 75019
 (817) 454-2113
 competitiveroofingdfw@gmail.com
+
+Hours
 Monday – Saturday: 8 AM – 6 PM
 Sunday: Closed
+
+--- FOOTER LINKS ---
+Services:
+Storm Damage Inspections
+Roof Replacements
+Roof Repairs
+Gutters & Gutter Guards
+Fences
+Patios & Pergolas
+General Contracting
+
+Happy with our work? Leave us a Google Review →
+
+© 2026 Competitive Roofing & Construction. All Rights Reserved.
+Privacy Policy
+
+
+================================================================
+PAGE: roof-replacement.html
+================================================================
+
+--- META ---
+Page title: Roof Replacement in Coppell TX | Competitive Roofing & Construction
+Meta description: Full roof replacement in Coppell & DFW by Competitive Roofing & Construction. Owens Corning shingles, storm damage experts, free inspections. Owner Craig on every job.
+
+--- PAGE HERO ---
+[Label]
+Roof Replacement — Coppell & DFW
+
+[H1]
+A New Roof Done Right.
+At a Price That's Fair.
+
+[Subheading]
+Most roofing bids in DFW include a salesperson's commission — sometimes thousands of dollars. When you call Craig, you're talking to the owner. He writes the estimate himself, pulls the permits, and puts his ten-person crew on the job from start to finish. No middlemen, no hidden markups.
+
+[CTAs]
+Get a Free Roof Inspection
+(817) 454-2113
+
+--- TRUST STRIP ---
+A+ BBB Accredited · 5.0 Google Rating · 26 Reviews · Licensed & Insured in Texas · Free Inspections · No Obligation · Owner on Every Job
+
+--- WHAT'S INCLUDED ---
+[H2]
+What's Included in Every Roof Replacement
+
+[Subheading]
+We don't offer tiered packages or bait-and-switch upgrades. Every replacement we do includes these components as standard — because skimping on any of them means callbacks down the road, and we're not interested in that.
+
+[Items]
+
+Owens Corning Duration Series Shingles
+We install Owens Corning Duration Series shingles on every project unless the customer specifically requests otherwise. They carry a Lifetime Limited warranty, Class 4 impact resistance rating, and SureNail Technology that significantly outperforms standard hand-seal strips in high-wind conditions. We've been installing them long enough to know how they hold up in DFW summers and spring hail seasons — and they hold up well. Owens Corning manufactures shingles at facilities right here in North Texas, so when we order your materials, they're not shipping cross-country. If you've been quoted on a cheaper shingle elsewhere, ask the other contractor what their callback rate looks like after the first year.
+
+ProArmor Synthetic Underlayment
+The underlayment is the last line of defense between your decking and the elements — it matters a lot more than most homeowners realize. We use synthetic underlayment on every job instead of traditional felt. It's lighter, more tear-resistant, and doesn't absorb moisture the way 15- or 30-pound felt does. If a shingle gets blown off in a storm before the insurance crew shows up, your underlayment is what keeps water out of your attic. We don't cut corners there.
+
+Ridge Cap Shingles & Proper Ventilation
+A lot of contractors install 3-tab cut shingles as ridge caps because they're cheaper and faster. We install purpose-built ridge cap shingles every time — they're thicker, shaped correctly for ridge exposure, and rated for it. We also assess ventilation on every job. A poorly ventilated attic can reduce shingle life by 20–30%, void manufacturer warranties, and cost you significantly more in cooling bills. If we find ventilation issues during tear-off, we'll tell you what we found and what it costs to fix it — before we button everything back up.
+
+Full Tear-Off & Debris Removal
+We tear off all existing roofing material down to the decking before anything new goes on. Some contractors will reroof over an existing layer to save time — this adds weight to your structure, traps heat and moisture between layers, and voids most manufacturer warranties. We don't do that. We also inspect the decking for soft spots, rot, or damaged sheathing while we're down to bare wood, and we replace what needs replacing. Your yard gets cleaned up the same day we finish. No piles of shingles left in your driveway, no stray nails in the grass.
+
+--- THE CRC DIFFERENCE ---
+[H2]
+The CRC Difference
+
+[Subheading]
+We're not the cheapest option in DFW, and we don't try to be. What we offer is a bid where every line item is legitimate — no inflated material costs, no mystery disposal fees, no commission buried in the total.
+
+[Body]
+Most large roofing companies in the area use door-to-door sales reps who work on commission. Their job is to maximize the sale, not minimize your cost. By the time a bid lands in your inbox, you've paid for their fuel, their sales training, their quota, and their cut of the job. We've had customers show us bids from competitors that were significantly higher than ours — for the same materials on the same square footage. We're not making that up — it's a systemic issue in the industry.
+
+Craig started this company in 2010 with a straightforward premise: write honest bids, do good work, and let the results speak. Sixteen years later, Craig and his ten-person crew earn most of their new business from referrals or neighbors who saw the work firsthand. We've never had a door-to-door sales team and we never will.
+
+[Pull Quote]
+"We got four bids. Craig's came in lower than all of them — by a significant margin. Same Owens Corning shingles, same scope, same warranty. Wish we'd called him first."
+— Richardson homeowner, 2024 · Full cash replacement, roof too old to qualify for insurance
+
+--- STORM DAMAGE & INSURANCE CLAIMS ---
+[H2]
+Storm Damage & Insurance Claims
+
+[Subheading]
+Filing a roofing insurance claim in Texas is a process most homeowners have never dealt with before. We've helped dozens of DFW homeowners navigate it from inspection through final payout — here's what that looks like when you work with us versus going it alone.
+
+[Working with CRC]
+Free inspection with Craig — photos, measurements, and a written scope of damage
+We meet your adjuster on-site and walk the roof with them
+We review your claim summary and flag any items the adjuster missed
+Supplemental claims filed when the initial payout is short
+We handle permitting and city registration where required
+You pay your deductible — we handle the rest of the insurance paperwork
+Final walkthrough with Craig before we consider the job closed
+
+[Going it alone]
+Adjuster inspects solo — no contractor advocate on the roof
+Missed line items (flashing, underlayment, ventilation) go unpaid
+Low initial payout with no one to file a supplement
+You're responsible for interpreting the claim summary yourself
+Permits your responsibility — or skipped entirely
+No documentation if something fails inspection after the fact
+No post-job walkthrough or warranty follow-up
+
+--- SERVICE AREAS ---
+[H2]
+Service Areas
+
+[Subheading]
+We replace roofs throughout the DFW Metroplex. If you're not sure whether we cover your area, call — we almost certainly do.
+
+[Cities]
+Coppell · Carrollton · Lewisville · Flower Mound · The Colony · Plano · McKinney · Allen · Princeton · Irving · Grapevine · Frisco · Southlake · Fort Worth · Justin
+
+--- FAQ ---
+[H2]
+Common Questions
+
+Q: How long does a full roof replacement take?
+A: Most residential replacements in DFW are completed in a single day. Larger homes, complex rooflines, or jobs that require significant decking repair may run into a second day. We don't start a job we can't close properly — you won't have a half-finished roof sitting overnight unless there's a genuine weather delay. We communicate before, during, and after.
+
+Q: Do I need to be home during the replacement?
+A: You don't need to be home during the work, but we recommend being available by phone. Craig will do a walkthrough with you at the end of the job to review the finished roof and go over any decking issues we found, ventilation notes, or warranty paperwork. If you can't be there, we'll document everything and go over it with you remotely — but most customers find it worth being around for the final walkthrough.
+
+Q: What happens if you find rotten or damaged decking?
+A: We inspect the decking during tear-off and document anything that needs attention with photos. If we find soft spots or damaged sheathing, we'll contact you immediately with the square footage, the cost to replace it, and photos so you can see exactly what we're looking at. We don't proceed without your approval. Decking replacement is priced per sheet and is typically a small addition to the overall job cost.
+
+Q: Will my homeowner's insurance cover a full replacement?
+A: If the damage is from a covered event — hail, wind, a fallen tree — most standard Texas homeowner's policies will cover the replacement minus your deductible. The key is having an advocate on the roof during the adjuster visit. We've seen adjusters miss flashing damage, gutter damage, and underlayment issues that are legitimately covered. When Craig is on the roof during that inspection, those items get documented and included in the claim. We also file supplemental claims when the initial payout doesn't reflect the actual scope.
+
+Q: Do you pull permits?
+A: Yes — where required. Coppell, Southlake, and several other DFW cities require permits for full roof replacements. We register with the city, pull the permit, and schedule any required inspections. Some contractors skip this step to save time and money. We don't. A roof installed without a required permit can create issues when you sell the home, void your homeowner's insurance coverage, or lead to fines if the city finds out during a neighbor's inspection.
+
+--- FOOTER CTA ---
+[H2]
+Ready for an Honest Estimate?
+
+[Body]
+No commission, no pressure, no sales rep. Just Craig — the owner — on your roof with a clipboard and a straight answer.
+
+[CTAs]
+Request a Free Inspection
+(817) 454-2113
+
+
+================================================================
+PAGE: roof-repair.html
+================================================================
+
+--- META ---
+Page title: Roof Repair in Coppell TX | Competitive Roofing & Construction
+Meta description: Roof repair in Coppell & DFW by Competitive Roofing & Construction. Leak fixes, storm damage, missing shingles, flashing — same-day response available. Free inspection.
+
+--- PAGE HERO ---
+[Label]
+Roof Repair — Coppell & DFW
+
+[H1]
+Stop the Leak.
+Fix It the Right Way
+the First Time.
+
+[Subheading]
+A small roof problem rarely stays small. A missing shingle becomes a leak. A leak becomes attic damage. Attic damage becomes a mold issue and an insurance headache. Craig and his ten-person crew find the actual source of the problem — not just the symptom — and fix it with materials that match your existing roof and hold up long-term.
+
+[CTAs]
+Schedule a Free Inspection
+(817) 454-2113
+
+--- TRUST STRIP ---
+A+ BBB Accredited · 5.0 Google Rating · 26 Reviews · Licensed & Insured in Texas · Same-Day Response Available · Owner on Every Job
+
+--- REPAIRS WE HANDLE ---
+[H2]
+Repairs We Handle Every Day
+
+[Subheading]
+Most roofing problems in DFW come from the same handful of causes. We've seen and fixed all of them — and we know which ones are quick fixes and which ones are warning signs of something bigger. We'll tell you honestly which category you're in.
+
+[Items]
+
+Active Leaks & Water Intrusion
+If you're seeing water stains on your ceiling, finding wet insulation in your attic, or noticing moisture around a chimney or skylight after rain, you have an active intrusion point that needs to be located and closed before the next storm. Leaks are almost never where you think they are — water travels along decking, rafters, and insulation before it appears inside. We trace the source from the roof down, find the actual entry point, and repair it correctly. Tarping and caulk are temporary measures; we do the actual fix.
+
+Missing, Cracked, or Lifted Shingles
+DFW wind events — even ones that don't qualify as major storms — can pull up tab shingles, crack brittle shingles in older sections, or lift entire sections of roofing in severe cases. A single missing shingle exposes felt and decking to direct UV and rain. We carry a broad stock of shingle colors and profiles so we can match your existing roof closely. When an exact match isn't possible, we'll tell you upfront and discuss your options rather than installing something that looks wrong and affects your home's appearance.
+
+Flashing Failures Around Chimneys, Vents & Valleys
+Flashing is the metal sheeting that seals the transitions between your roof surface and any penetration — chimneys, pipes, skylights, dormers, and the valleys where two roof planes meet. It's one of the most common failure points on older roofs, and it's frequently installed incorrectly on newer ones. Failed flashing can leak for years before you notice interior damage. We remove and replace damaged flashing rather than layering caulk over it — the caulk-over approach fails within a year or two and leaves the underlying problem intact.
+
+Hail & Storm Damage
+Texas hail can range from minor granule loss — which shortens shingle life but doesn't cause immediate leaks — to severe impact damage that cracks shingles, dents metal flashing, and compromises the roof's structural integrity in affected areas. We document hail damage with photos and written scope, which is exactly what your insurance adjuster needs to process a claim. If the damage is limited to a portion of the roof, we can sometimes do a targeted repair rather than a full replacement. We'll tell you which is the right call based on the actual condition of the roof, not what's more profitable for us.
+
+Ventilation & Ridge Issues
+Inadequate attic ventilation is one of the most underdiagnosed roofing problems in DFW. When hot air can't exit the attic, it superheats the decking and accelerates shingle deterioration — sometimes by years. It also creates moisture traps in winter that lead to decking rot and mold growth. If your energy bills have crept up or your shingles are aging faster than they should, ventilation is often the culprit. We assess intake and exhaust airflow and can add ridge vents, soffit vents, or box vents as needed to bring your attic ventilation into balance.
+
+Gutter & Fascia Damage
+Gutters and fascia boards are closely tied to roof performance — overflowing or improperly pitched gutters can back water up under your drip edge, which eventually leads to fascia rot and soffit damage. Sagging gutters, separated gutter seams, and damaged downspouts all cause water to deposit against your foundation and fascia instead of away from the structure. We repair and reseat gutters as part of roof repair work when the two are connected, rather than treating them as separate unrelated issues.
+
+--- REPAIR OR REPLACE ---
+[H2]
+Repair or Replace? Here's How We Think About It.
+
+[Subheading]
+We get this question on almost every repair call. The honest answer depends on the age of the roof, the extent of the damage, and whether the rest of the roof is in good shape. Here's the framework we use — and we'll walk through it with you on your specific roof.
+
+[Repair is usually the right call when…]
+Roof is under 15 years old and in otherwise good condition
+Damage is isolated to one section or a specific penetration point
+The underlying decking is solid with no soft spots
+No evidence of widespread granule loss or shingle brittleness
+A matching shingle is available for the affected area
+Insurance is covering a specific storm event, not general wear
+
+[Replacement often makes more sense when…]
+Roof is 20+ years old and showing widespread wear
+Multiple areas need repair simultaneously
+Decking damage is found under multiple sections
+A third or more of the roof surface is affected by storm damage
+Previous repairs have already been done to the same areas
+Insurance is covering a full replacement — repair cost approaches replacement
+
+--- ACTIVE LEAK CTA BLOCK ---
+[H2]
+Active Leak? Call Today.
+
+[Body]
+We respond same-day for active water intrusion. Don't wait for the next rain to make it worse — call Craig directly.
+
+[CTAs]
+Request Service Now
+(817) 454-2113
+
+--- STORM DAMAGE & INSURANCE-COVERED REPAIRS ---
+[H2]
+Storm Damage & Insurance-Covered Repairs
+
+[Subheading]
+Not every storm event triggers a full replacement — sometimes the damage is limited and a targeted repair is the right scope. But even for repairs, the insurance process matters. Here's what you should know.
+
+[Body]
+Texas homeowner's insurance covers storm-related damage to your roof — wind, hail, and falling objects are the most common triggers. The challenge is that adjusters are often looking at roofs from the ground or doing quick drive-bys to assess damage volume, and they frequently miss localized damage to flashing, valleys, and pipe boots. These are exactly the areas where small failures turn into big leaks.
+
+When Craig does your inspection, he documents every item with photos and a written scope. If you file a claim, we're available to meet the adjuster on-site and walk the roof together. This single step — having a contractor on the roof during the adjuster visit — is the biggest factor in whether your claim covers the full scope of the damage. Adjusters miss things. We catch them.
+
+[What we document]
+Impact marks and granule loss from hail — with measurement
+Lifted, cracked, or missing shingles from wind
+Flashing damage and displacement at penetration points
+Damaged gutters, drip edge, and fascia
+Any interior water damage traceable to the roof event
+Ventilation issues exacerbated by storm impact
+
+[What adjusters commonly miss]
+Pipe boot and vent flashing damage (not visible from ground)
+Valley damage in interior roof sections
+Granule loss severity on north-facing slopes
+Drip edge displacement under gutter lines
+Soft spots indicating underlayment saturation
+Partial ridge cap damage from wind uplift
+
+--- SERVICE AREAS ---
+[H2]
+Service Areas
+
+[Subheading]
+We repair roofs throughout the DFW Metroplex. If you're not sure whether we cover your area, call — we almost certainly do.
+
+[Cities]
+Coppell · Carrollton · Lewisville · Flower Mound · The Colony · Plano · McKinney · Allen · Princeton · Irving · Grapevine · Frisco · Southlake · Fort Worth · Justin
+
+--- FAQ ---
+[H2]
+Common Questions About Roof Repairs
+
+Q: How quickly can you respond to an active leak?
+A: For active water intrusion, we prioritize same-day response. Call Craig directly at (817) 454-2113. If you've got water coming in during or after a storm, the first step is stopping the damage — we can deploy temporary protection while we assess the permanent fix. Don't wait through a second or third rain event hoping it seals itself. It won't.
+
+Q: Can you match my existing shingles?
+A: In most cases, yes — we carry a wide range of shingle profiles, colors, and manufacturers. Older roofs can be harder to match, especially if the shingle line has been discontinued. When we do the estimate, we'll tell you exactly how close the match will be before any work begins. If you're concerned about aesthetics, we can discuss options for the affected section that blend better with the surrounding surface.
+
+Q: Will a repair void my manufacturer's warranty?
+A: It depends on the warranty terms and who does the work. Most manufacturer warranties require repairs to be performed by a licensed contractor using approved materials. We qualify under both requirements. If you have a specific warranty document you're concerned about, send it to us and we'll review it before we start — we'd rather know about a warranty restriction upfront than find out about it later.
+
+Q: What's the difference between a repair and a patch?
+A: A patch is a temporary fix — typically a piece of flashing, a tube of roofing cement, or a piece of mismatched shingle applied over a problem area. Patches are what other contractors do when they're trying to get in and out quickly. A proper repair means removing the compromised material, inspecting what's underneath, replacing the underlayment if needed, and installing new material correctly using the same methods and fasteners as the original installation. We do repairs, not patches.
+
+Q: Should I file an insurance claim for my repair?
+A: It depends on the cause of the damage and your deductible. If the damage is from a covered weather event — hail, wind, a falling branch — it's worth at least getting an inspection to document the scope before you decide. If the repair cost is close to or below your deductible, filing a claim may not be worth it. We'll give you an honest assessment of what the repair will cost, what the damage scope looks like, and whether it makes sense to involve your insurance company. We don't push claims — we just tell you the facts.
+
+--- FOOTER CTA ---
+[H2]
+Don't Let a Small Problem Become a Big One.
+
+[Body]
+Get Craig on your roof before the next storm rolls through. Free inspection, honest scope, no pressure to sign anything.
+
+[CTAs]
+Schedule a Free Inspection
+(817) 454-2113
