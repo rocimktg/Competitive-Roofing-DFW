@@ -1,0 +1,13 @@
+{
+  "_comment": "Per-page overrides used by build.js. Only values that can't be derived from the filename go here — right now just which service comes pre-selected in the estimate modal's dropdown. Omit a page to leave the dropdown on the placeholder.",
+  "selectedService": {
+    "roof-replacement.html": "Roof Replacement",
+    "roof-repair.html": "Roof Repair",
+    "storm-damage.html": "Storm Damage Inspection",
+    "gutters-gutter-guards.html": "Gutters / Gutter Guards",
+    "fences.html": "Fence",
+    "siding.html": "Siding",
+    "patios-pergolas.html": "Patio / Pergola",
+    "insurance-claims.html": "Insurance Claim"
+  }
+}

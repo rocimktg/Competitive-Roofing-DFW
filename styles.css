@@ -307,6 +307,18 @@ ul { list-style: none; }
 
 .nav-dropdown { position: relative; display: flex; align-items: center; height: 100%; }
 
+/* Invisible hover bridge — keeps :hover alive while the cursor crosses the gap
+   between the trigger and the dropdown menu below it, so the menu doesn't
+   flicker closed mid-transit. */
+.nav-dropdown::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  height: 8px;
+}
+
 .nav-dropdown-trigger {
   display: inline-flex;
   align-items: center;
@@ -326,7 +338,7 @@ ul { list-style: none; }
 
 .nav-dropdown-menu {
   position: absolute;
-  top: calc(100% + 12px);
+  top: calc(100% + 6px);
   left: 50%;
   transform: translateX(-50%) translateY(-6px);
   background: var(--charcoal);
@@ -367,14 +379,14 @@ ul { list-style: none; }
   position: fixed;
   left: 50%;
   right: auto;
-  top: calc(var(--nav-h) + 12px);
+  top: calc(var(--nav-h) + 6px);
   transform: translateX(-50%) translateY(-6px);
   width: min(var(--container), calc(100vw - 48px));
   min-width: 0;
   padding: 36px 44px;
 }
 #nav.scrolled .nav-dropdown-menu--mega {
-  top: 92px;
+  top: 86px;
 }
 .nav-dropdown:hover .nav-dropdown-menu--mega,
 .nav-dropdown:focus-within .nav-dropdown-menu--mega {
@@ -1493,7 +1505,7 @@ ul { list-style: none; }
 
 .footer-grid {
   display: grid;
-  grid-template-columns: 1.3fr 1fr 0.85fr 0.85fr;
+  grid-template-columns: 1.1fr 0.9fr 0.85fr 0.85fr;
   gap: 40px;
   padding-bottom: 48px;
   border-bottom: 1px solid rgba(255,255,255,0.1);
@@ -1846,7 +1858,6 @@ ul { list-style: none; }
   .services-grid  { grid-template-columns: repeat(2, 1fr); }
   .reviews-grid   { grid-template-columns: repeat(2, 1fr); }
   .footer-grid    { grid-template-columns: 1fr 1fr; }
-  .footer-col--form { grid-column: span 2; }
 }
 
 @media (max-width: 900px) {
