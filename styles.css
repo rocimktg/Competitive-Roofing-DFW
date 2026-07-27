@@ -540,7 +540,7 @@ ul { list-style: none; }
   gap: 8px;
 }
 
-.mobile-nav a {
+.mobile-nav > a {
   display: block;
   font-family: var(--font-head);
   font-weight: 700;
@@ -558,9 +558,85 @@ ul { list-style: none; }
 }
 
 @media (hover: hover) {
-  .mobile-nav a:hover {
+  .mobile-nav > a:hover {
     background: var(--charcoal);
     color: var(--white);
+  }
+}
+
+.mobile-nav-group {
+  border: 2px solid var(--charcoal);
+  border-radius: var(--radius-sm);
+  background: var(--light-gray);
+  overflow: hidden;
+}
+
+.mobile-nav-group summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--charcoal);
+  padding: 13px 16px;
+  cursor: pointer;
+  list-style: none;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.mobile-nav-group summary::-webkit-details-marker,
+.mobile-nav-group summary::marker {
+  display: none;
+  content: '';
+}
+
+.mobile-nav-caret {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  transition: transform 200ms ease;
+}
+
+.mobile-nav-group[open] .mobile-nav-caret {
+  transform: rotate(180deg);
+}
+
+.mobile-nav-sublist {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 6px 10px 10px;
+}
+
+.mobile-nav-sublist a {
+  display: block;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--charcoal);
+  background: var(--white);
+  border: 1px solid var(--charcoal-2);
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  transition: background 150ms, color 150ms, border-color 150ms;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.mobile-nav-sublist a[aria-current="page"] {
+  border-color: var(--charcoal);
+  background: var(--light-gray);
+}
+
+@media (hover: hover) {
+  .mobile-nav-sublist a:hover {
+    background: var(--charcoal);
+    color: var(--white);
+    border-color: var(--charcoal);
   }
 }
 
